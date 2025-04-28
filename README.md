@@ -71,7 +71,7 @@ plt.title("IPL Match Prediction Result")
 plt.show()
 This is implemented in streamlit_app.py, where the winning probabilities are displayed using Matplotlib in Streamlit.
 
-📝 Future Enhancements
+📝 Future Enhancements:
 Use Deep Learning (LSTMs) for better predictions.
 Add Live API Integration for real-time match updates.
 Improve UI with dynamic graphs.
